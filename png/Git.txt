@@ -1,0 +1,8 @@
+Git:本地建一个分支，没做完的任务可以存到这个分支，然后把正式服的pull到这个分支，两个代码就合并完成。如果来了新任务可以新建一个分支，然后把正式服的PULL到这个分支，开始新的任务。
+http://zensheno.blog.51cto.com/2712776/490748
+
+
+Git常用命令详解：http://blog.csdn.net/ithomer/article/details/7529022 
+Git参考手册：http://gitref.org/zh/remotes/     
+Git合并分支：http://backlogtool.com/git-guide/cn/stepup/stepup2_4.html
+Git常用命令解说：http://zensheno.blog.51cto.com/2712776/490748
